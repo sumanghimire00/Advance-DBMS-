@@ -1,2 +1,2 @@
-# Advance-DBMS-
-Kec BOOK  CSIT  8sem
+#CSIT-8sem
+Kec BOOK Advance DBMS
